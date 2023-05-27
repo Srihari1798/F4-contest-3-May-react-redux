@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-bottom: 0.5px solid white;
+}
+.Btn{
+    margin-left: 10px;
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+#btn1{
+    background-color: black;
+    color: white;
+    margin-right: 25px;
+}
+#btn2{
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+}
